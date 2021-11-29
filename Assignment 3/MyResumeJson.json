@@ -1,0 +1,67 @@
+
+{
+    "basicInfo" :[
+        {
+            "name":"Prabhakaran J",
+            "emailId": "prabhaindia.jeyamohan@gmail.com",
+            "phone": "+917200563014",
+            "address": "KK nagar, Chennai"
+        }
+
+    ]
+    ,
+    "Summary": [" Masters degree holder with high skill and experience in the Full stack web development. Proficient in language such as JS,Python, SQL, HTML, CSS, MondoDB and have created 3 projects such as twitter clone, amazon e-commerce website clone and a Youtube streaming application clone"]
+    ,
+    "Skills":[
+        {"languages":["python","C++","javascript","html","css"],
+        "framework":["ReactJS","bootstrap"]}
+    ]
+    ,
+    "workExperience":[
+        {
+            "company":"HPG inc",
+            "position":"cnc machinist",
+            "startDate":"June 2016",
+            "endDate":"June 2018",
+            "responsibilities":["measure parts using screw guage,vernier caliper, height guage and other tools to pass Quality control","load,unload parts and run appropriate cnc programs of the 4 and 5 axis machines","adjust zoller heights or change cutting tools when it is worn out"]
+        },
+        {
+            "company":"Petro Canada",
+            "position":"assistant manager",
+            "startDate":"June 2018",
+            "endDate":"June 2021",
+            "responsibilities":["count and restock inventory upto date","process orders and face multiple customers and provide them a pleasant shopping experience","trouble shoot problems such as pump error,system error and point of contact error"]
+
+        }
+    ]
+    ,
+    "education":[
+        {
+            "institution":"Anna University",
+            "degree":"bachelors in engineering",
+            "field of study":"aeronautical engineering",
+            "end date":"aug 2014"            
+        },
+        {
+            "institution":"concordia unviersity",
+            "degree":"masters in mechanical engineering",
+            "field of study":"mechanical engineering",
+            "end date":"aug 2016"
+        }
+    ]
+    ,
+    "certification":[
+        "python is easy - by pirple.com",
+        "front end fundamentals-html,css - by pirple.com",
+        "html,css and javascript by nucamp"
+        
+    ]
+    ,
+    "projects":[
+        "Blackjack game using python",
+        "An educational bootcamp website with html,css and bootstrap framework"
+    ]
+}
+    
+    
+    
